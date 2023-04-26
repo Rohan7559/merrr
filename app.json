@@ -1,5 +1,5 @@
 {
-    "name": "Mirrorbot137 ",
+    "name": "merrr ",
     "description": "A Telegram Mirror bot",
     "logo": "https://telegra.ph/file/3c4237dd056fcc3ed36d4.jpg",
     "keywords": [
@@ -8,8 +8,8 @@
       "python",
       "mirror"
     ],
-    "repository": "https://github.com/rahulkhatri137/mirrorbot137",
-    "success_url": "https://github.com/rahulkhatri137/mirrorbot137/blob/master/README.md",
+    "repository": "https://github.com/Rohan7559/merrr",
+    "success_url": "https://github.com/Rohan7559/merrr/blob/master/README.md",
     "stack": "container",
     "env": {
       "ENV": {
